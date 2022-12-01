@@ -1,2 +1,3 @@
-# 2022CodingPrepTeam
-코딩테스트스터디
+# 2022 Coding Test Preparation Team
+
+
