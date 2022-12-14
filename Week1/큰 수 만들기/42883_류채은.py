@@ -1,3 +1,4 @@
+# 아직 틀린 답..
 
 import numpy as np
 import sys
