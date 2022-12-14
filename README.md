@@ -23,3 +23,4 @@
     - [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) (류채은)
     - [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) (고태현)
     - [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) (김창헌)
+    - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) (장지원)
