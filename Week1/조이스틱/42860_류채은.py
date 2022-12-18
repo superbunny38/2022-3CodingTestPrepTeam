@@ -44,20 +44,4 @@ def solution(name):
     final_cost += move_cost    
     answer = final_cost
     return answer
-
-'''
-import random
-for _ in range(90):
-    db = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
-    length = random.randint(1,20)
-    name = "".join(random.choices(db,k = length))
-    print(solution(name))
-    if solution(name) != real_solution(name):
-        print("WRONG!!")
-        print("WRONG!!")
-        print("WRONG!!")
-        print("WRONG!!")
-        print("WRONG!!")
-        break
-    '''
     
