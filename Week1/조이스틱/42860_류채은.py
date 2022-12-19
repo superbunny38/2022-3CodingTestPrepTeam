@@ -1,5 +1,6 @@
 #류채은
 #조이스틱
+#아직 틀림..
             
 def straight_forward(name):
   
