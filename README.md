@@ -25,7 +25,7 @@
     - [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) (김창헌)
     - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) (장지원)
  
-- **Week2: 그래프 탐색 관련 (백준 위주) 10 문제 + 그리디 알고리즘 유형 4 문제** (메인: 류채은)
+- **Week2: 그래프 관련(탐색,이론,BFS,DFS 등) (백준 위주) 10 문제 + 그리디 알고리즘 유형 4 문제** (메인: 류채은)
     - [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) (전 주 문제)
     
     <김창헌> 
