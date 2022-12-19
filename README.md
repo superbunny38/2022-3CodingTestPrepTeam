@@ -28,7 +28,7 @@
 - **Week2: 그래프 탐색: 백준 위주 10 문제(브론즈5 ~ 실버1) + 4 문제(그리디) ** (메인: 류채은)
     - [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) (전 주 문제)
     
-    - <브론즈5,4,3,2: 김창헌 4문제>
+    - < 김창헌: Flight Turbulence (실버 5), 바닥장식 (실버 4), Bucket Brigade (실버 4), The Game of Death (실버 4) >
     
     - <브론즈1 + 실버 5,4,3,2,1: 류채은 6문제>
     
