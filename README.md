@@ -44,10 +44,10 @@
     - [Four-Coloring](https://www.acmicpc.net/problem/16746) (실버 1)
    
     <그리디 4문제: 고태현 4문제>
-    - [거스름돈] (https://www.acmicpc.net/problem/5585) (브론즈2)
-    - [보물] (https://www.acmicpc.net/problem/1026) (실버4)
-    - [ATM] (https://www.acmicpc.net/problem/11399) (실버4)
-    - [주식] (https://www.acmicpc.net/problem/11501) (실버2)
+    - [거스름돈](https://www.acmicpc.net/problem/5585) (브론즈2)
+    - [보물](https://www.acmicpc.net/problem/1026) (실버4)
+    - [ATM](https://www.acmicpc.net/problem/11399) (실버4)
+    - [주식](https://www.acmicpc.net/problem/11501) (실버2)
     
     
 - **Week3: 그래프 탐색 (프로그래머스 위주)** (메인: )
