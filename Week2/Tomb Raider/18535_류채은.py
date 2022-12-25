@@ -12,6 +12,8 @@ def check_okay(graph_, way, dragon_list):
     
     def h_check(graph, r_idx, c_idx, mode):#가로
         if mode == 'right':
+            if c_idx == len(graph[0])-1:
+                return True
             move = 1
             while c_idx + move < len(graph[0]):
                 if graph[r_idx][c_idx+move] == '#':
@@ -27,7 +29,10 @@ def check_okay(graph_, way, dragon_list):
                 elif graph[r_idx][c_idx+move] == 'H':
                     return True
                 move +=1
+            
         elif mode == 'left':
+            if c_idx == 0:
+                return True
             move = -1
             while c_idx + move >= 0:
                 if graph[r_idx][c_idx+move] == '#':
@@ -43,9 +48,12 @@ def check_okay(graph_, way, dragon_list):
                 elif graph[r_idx][c_idx+move] == 'H':
                     return True
                 move -=1
+        return False
             
     def v_check(graph, r_idx, c_idx, mode):#세로
         if mode == 'bottom':
+            if r_idx == len(graph)-1:
+                return True
             move = 1
             while r_idx + move < len(graph):
                 if graph[r_idx+move][c_idx] == '#':
@@ -65,6 +73,8 @@ def check_okay(graph_, way, dragon_list):
                 move +=1
                 
         elif mode == 'top':
+            if r_idx == 0:
+                return True
             move = -1
             while r_idx + move >= 0:
                 if graph[r_idx+move][c_idx] == '#':
@@ -80,6 +90,7 @@ def check_okay(graph_, way, dragon_list):
                 elif graph[r_idx+move][c_idx] == 'V':
                     return True
                 move -=1
+        return False
                
                 
     '''
@@ -149,9 +160,9 @@ for way in ways:
     print("\nway:",way)
     n_rotate = check_okay(tomb_graph, way, dragon_list)
     print("n_rotate:",n_rotate)
-    if n_rotate>0 and n_rotate<min_rotate:
+    if n_rotate>=0 and n_rotate<min_rotate:
         min_rotate = n_rotate
         
 if min_rotate == m*n+1:
     min_rotate =-1
-print(min_rotate)
+print("\n\n>>",min_rotate)
