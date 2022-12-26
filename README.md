@@ -4,8 +4,8 @@
 12월 13일 ~ 2월 27일
 
 ## 💻 스터디 시간 및 장소 💻
-- 장소: 강남
-- 시간: 월요일 오후 4시
+- 장소: 
+- 시간:
 
 ## 💻 스터디 운영 방침 💻
 - 매주 메인 알고리즘 선정 (총 14문제 (2문제 per day))
@@ -20,21 +20,17 @@
 
 ## 💻 스터디 계획 💻
 - **Week1: Greedy Algorithm** (메인: 고태현)
-    - [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) (류채은)
-    - [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) (고태현)
-    - [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) (김창헌)
-    - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) (장지원)
+    - [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) 
+    - [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
+    - [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) 
+    - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
  
-- **Week2: 그래프 관련(탐색,이론,BFS,DFS 등) (백준 위주) 10 문제 + 그리디 알고리즘 유형 4 문제** (메인: 류채은)
+- **Week2: 그래프 관련(탐색,이론,BFS,DFS 등) (백준 위주 기본) 10 문제 + 그리디 알고리즘 유형 4 문제** (메인: 류채은)
     - [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) (전 주 문제)
-    
-    <그래프: 김창헌 출제> 
     - [Flight Turbulence](https://www.acmicpc.net/problem/17848) (실버 5)
     - [바닥장식](https://www.acmicpc.net/problem/1388) (실버 4)
     - [Bucket Brigade](https://www.acmicpc.net/problem/17198) (실버 4)
     - [The Game of Death](https://www.acmicpc.net/problem/11558) (실버 4)
-    
-    <그래프: 류채은 출제>
     - [Tomb Rader](https://www.acmicpc.net/problem/18535) (실버 4)
     - [River Game](https://www.acmicpc.net/problem/18304) (실버 4)
     - [The Cow Gathering](https://www.acmicpc.net/problem/16762) (실버 4)
@@ -43,7 +39,7 @@
     - [이상적인 도시](https://www.acmicpc.net/problem/5813) (실버 2)
     - [Four-Coloring](https://www.acmicpc.net/problem/16746) (실버 1)
    
-    <그리디: 고태현 출제>
+    <그리디>
     - [거스름돈](https://www.acmicpc.net/problem/5585) (브론즈2)
     - [보물](https://www.acmicpc.net/problem/1026) (실버4)
     - [ATM](https://www.acmicpc.net/problem/11399) (실버4)
