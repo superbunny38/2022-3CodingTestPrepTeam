@@ -17,9 +17,21 @@
 - [프로그래머스 알고리즘 고득점 Kit 문제](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 - [(추후 진행) 카카오 기출문제](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc&page=1&partIds=31236%2C25448%2C22586%2C20069%2C17214)
 - [(추후 진행) 삼성 SW 기출 문제](https://www.acmicpc.net/workbook/view/1152)
+- [그래프 빈출](https://it-college-diary.tistory.com/entry/BFS-DFS-%EA%B0%9C%EB%85%90-%EC%B6%94%EC%B2%9C%EB%AC%B8%EC%A0%9C)
+- [다이나믹프로그래밍 빈출](https://won-percent.tistory.com/3)
 
 ## 💻 스터디 계획 💻
     
-- **Week0: 그래프 탐색 (프로그래머스 위주)**
-    - [그래프 4문제](https://it-college-diary.tistory.com/entry/BFS-DFS-%EA%B0%9C%EB%85%90-%EC%B6%94%EC%B2%9C%EB%AC%B8%EC%A0%9C)
-    - [다이나믹프로그래밍 DP를 처음하신다고요? 5문제](https://won-percent.tistory.com/3)
+- **Week0: 기본 그래프 관련 + DP 관련**
+    <그래프 관련 4문제>
+    - [DFS와 BFS](https://www.acmicpc.net/problem/1260)
+    - [전쟁 - 전투](https://www.acmicpc.net/problem/1303)
+    - [미로 탐색](https://www.acmicpc.net/problem/1303)
+    - [연결 요소의 개수](https://www.acmicpc.net/problem/11724)
+    
+    <다이나믹프로그래밍>
+    - [피보나치 수 2](https://www.acmicpc.net/problem/2748)
+    - [1로 만들기](https://www.acmicpc.net/problem/1463)
+    - [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095)
+    - [계단 오르기](https://www.acmicpc.net/problem/2579)
+  
