@@ -51,5 +51,5 @@
     
     
 - **Week3: 그래프 탐색 (프로그래머스 위주)**
-    - 그래프 4문제(https://it-college-diary.tistory.com/entry/BFS-DFS-%EA%B0%9C%EB%85%90-%EC%B6%94%EC%B2%9C%EB%AC%B8%EC%A0%9C)
-    - 다이나믹프로그래밍 DP를 처음하신다고요? 5문제(https://won-percent.tistory.com/3)
+    - [그래프 4문제](https://it-college-diary.tistory.com/entry/BFS-DFS-%EA%B0%9C%EB%85%90-%EC%B6%94%EC%B2%9C%EB%AC%B8%EC%A0%9C)
+    - [다이나믹프로그래밍 DP를 처음하신다고요? 5문제](https://won-percent.tistory.com/3)
