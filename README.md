@@ -27,7 +27,7 @@
     <그래프 관련 4문제>
     - [DFS와 BFS](https://www.acmicpc.net/problem/1260)
     - [전쟁 - 전투](https://www.acmicpc.net/problem/1303)
-    - [미로 탐색](https://www.acmicpc.net/problem/1303)
+    - [미로 탐색](https://www.acmicpc.net/problem/2178)
     - [연결 요소의 개수](https://www.acmicpc.net/problem/11724)
     
     <다이나믹프로그래밍>
