@@ -1,28 +1,18 @@
 from collections import deque
 
-def bfs(graph, v, visited):
-  q = deque([v])
-  visited[v] = True
-  while q:
-    u = q.popleft()
-    for k in graph[u]:
-      if not visited[k]:
-        q.append(k)
-        visited[k] =  True
-        
+def bfs(y,x):
+  queue = deque()
+  queue.append((y,x))  
+  while queue:
+    y, x = queue.popleft()
+    for dx, dy in d:
+      X, Y = x+dx, y+dy
+      if (0 <= X < M) and (0 <= Y < N) and maze[Y][X] == 1:
+        queue.append((Y,X))
+        maze[Y][X] = maze[y][x]+1
+  return maze[N-1][M-1]
+      
 N, M = map(int, input().split())
-graph = [[] for _ in range(N+1)]
-for _ in range(M):
-  u, v = map(int, input().split())
-  graph[u].append(v)
-  graph[v].append(u)
-
-visited = [False] * (N+1) 
-cnt = 0
-
-for i in range(1, N+1):
-  if visited[i]: continue
-  bfs(graph, i, visited)
-  cnt += 1
-
-print(cnt)
+maze = [list(map(int, input())) for _ in range(N)]
+d = [(1,0),(-1,0),(0,1),(0,-1)]
+print(bfs(0,0))
