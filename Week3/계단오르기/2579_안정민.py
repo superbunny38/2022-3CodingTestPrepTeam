@@ -29,6 +29,22 @@ def solve(n, stairs: list) -> int:
         prev = max(score[i - 2], key=lambda x: x[0]) # 두 단계 올라가기
         score[i].append([prev[0] + currScore, 1])
         
+    '''
+    해설 확인
+    
+    element가 1개라도 최대값이라는 것이 보장 됨!
+    현재 계단(n)에 도착한 경우의 수가 
+    1. n-3 밟고 n-1 밟은 경우, 2. n-2 밟은 경우로 2가지 뿐이니 둘의 최대만 비교하면 가능
+    '''
+    # score[0], score[1], score[2] = 0, stairs[0], stairs[0] + stairs[1]
+    # for i in range(3, n + 1):
+    #     currScore = stairs[i - 1]
+    #     score[i] = max(score[i - 3] + stairs[i - 2] + currScore, score[i - 2] + currScore)
+        
+    # return score[n]
+        
     return max(score[n], key=lambda x: x[0])[0]
+
+    
     
 main()
