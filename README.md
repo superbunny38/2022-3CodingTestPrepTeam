@@ -46,6 +46,8 @@
     <프로그래머스 2문제: 이유진>
     
     <기출 2문제: 안정민>
+    - [kakao 기출] [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
+    - [kakao 기출] [두 큐 합 같게 하기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
     
     <당일 날 풀 코딩 문제 준비: 류채은>
     
