@@ -46,6 +46,10 @@
     - [반복수열](https://www.acmicpc.net/problem/2331)
     
     <다이나믹프로그래밍 4문제: 김창헌>
+    - [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722)
+    - [퇴사 2](https://www.acmicpc.net/problem/15486)
+    - [1,2,3 더하기 4](https://www.acmicpc.net/problem/15989)
+    - [점프](https://www.acmicpc.net/problem/1890)
     
     <프로그래머스 2문제: 이유진>
     - [프로그래머스] [게임맵최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
