@@ -48,8 +48,8 @@
     <다이나믹프로그래밍 4문제: 김창헌>
     
     <프로그래머스 2문제: 이유진>
-    - [kakao 기출] [게임맵최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
-    - [kakao 기출] [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
+    - [프로그래머스] [게임맵최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
+    - [프로그래머스] [타겟넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
     
     <기출 2문제: 안정민>
     - [kakao 기출] [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
