@@ -40,6 +40,10 @@
 - **Week 4: 12 문제 (장소: 사당)**
 
     <그래프 4문제: 조예은>
+    - [음식물 피하기](https://www.acmicpc.net/problem/1743)
+    - [섬의 개수](https://www.acmicpc.net/problem/4963)
+    - [순열 사이클](https://www.acmicpc.net/problem/10451)
+    - [반복수열](https://www.acmicpc.net/problem/2331)
     
     <다이나믹프로그래밍 4문제: 김창헌>
     
