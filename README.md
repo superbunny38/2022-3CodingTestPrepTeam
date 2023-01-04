@@ -22,13 +22,13 @@
 
 ## 💻 스터디 계획 💻
 
-- **Week1: Greedy Algorithm** (메인: 고태현)
+- **Week1: Greedy Algorithm**
     - [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) 
     - [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)
     - [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885) 
     - [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)
  
-- **Week2: 그래프 관련(탐색,이론,BFS,DFS 등) (백준 위주 기본) 10 문제 + 그리디 알고리즘 유형 4 문제** (메인: 류채은)
+- **Week2: 그래프 관련(탐색,이론,BFS,DFS 등) (백준 위주 기본) 10 문제 + 그리디 알고리즘 유형 4 문제**
     - [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) (전 주 문제)
     - [Flight Turbulence](https://www.acmicpc.net/problem/17848) (실버 5)
     - [바닥장식](https://www.acmicpc.net/problem/1388) (실버 4)
