@@ -86,5 +86,8 @@
     - [kakao 기출] [두 큐 합 같게 하기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
     
     <당일 날 풀 코딩 문제 준비: 류채은>
+    - [삼성 SW 역량 테스트 기출 문제] [구슬 탈출 2](https://www.acmicpc.net/problem/13460)
+    - [DP] [정수 삼각형](https://www.acmicpc.net/problem/1932)
     
 - **Week 5: (장소: 율전)**
+
