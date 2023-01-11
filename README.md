@@ -95,6 +95,8 @@
         - [정수 삼각형](https://www.acmicpc.net/problem/1932)
     - [구현: 3문제, 담당: 김창헌 (골드 포함)]
     - [kakao: 2문제, 담당: 조예은]
+        - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+        - [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
  
 
 ## 💻 실시간 온라인 코딩테스트 일정💻
