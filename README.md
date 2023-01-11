@@ -12,6 +12,7 @@
 - 매주 당번이 해당 주차 주제에 대해 5 가지 정도 질문(시간복잡도, 공간복잡도, 의사코드, 알고리즘 활용도 등) 담은 쪽지시험 준비
 - 매주 본인 담당 문제 스터디에서 직접 리뷰 (본인이 고른 문제는 설명 가능해야함)
 - 매주 스터디 진행 순서: 당번이 낸 쪽지시험 풀기 -> 코드/문제 리뷰 진행 -> 함께 푸는 문제 진행 (오프라인)
+- 격주 실시간 온라인 코딩테스트 진행 (**1/28**)
 
 [문제 Source]
 - [프로그래머스 알고리즘 고득점 Kit 문제](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
@@ -86,8 +87,12 @@
     - [kakao 기출] [두 큐 합 같게 하기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
     
     <당일 날 풀 코딩 문제 준비: 류채은>
-    - [삼성 SW 역량 테스트 기출 문제] [구슬 탈출 2](https://www.acmicpc.net/problem/13460)
-    - [DP] [정수 삼각형](https://www.acmicpc.net/problem/1932)
     
 - **Week 5: (장소: 율전)**
-
+    - [문자열: 2문제, 담당: 류채은]
+    - [다익스트라: 1문제, 담당: 안정민]
+    - [다이나믹프로그래밍: 2문제, 담당: 이유진]
+        - [정수 삼각형](https://www.acmicpc.net/problem/1932)
+    - [구현: 3문제, 담당: 김창헌 (골드 포함)]
+    - [kakao: 2문제, 담당: 조예은]
+ 
