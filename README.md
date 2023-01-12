@@ -90,7 +90,7 @@
     
 - **Week 5: (장소: 율전)**
 
-    <문자열: 2문제: 류채은>
+    <문자열 2문제: 류채은>
     - [LCS](https://www.acmicpc.net/problem/9251)
     - [A와 B](https://www.acmicpc.net/problem/12904)
     
