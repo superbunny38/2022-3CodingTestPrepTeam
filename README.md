@@ -96,6 +96,7 @@
         - [정수 삼각형](https://www.acmicpc.net/problem/1932)
         - [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
     - [구현: 3문제, 담당: 류채은, (골드 포함)]
+        - [빙산](https://www.acmicpc.net/problem/2573)
     - [kakao: 2문제, 담당: 조예은]
         - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
         - [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
