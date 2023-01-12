@@ -93,6 +93,7 @@
     - [다익스트라: 1문제, 담당: 안정민]
     - [다이나믹프로그래밍: 2문제, 담당: 이유진]
         - [정수 삼각형](https://www.acmicpc.net/problem/1932)
+        - [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
     - [구현: 3문제, 담당: 김창헌 (골드 포함)]
     - [kakao: 2문제, 담당: 조예은]
         - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
