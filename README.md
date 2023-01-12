@@ -91,6 +91,7 @@
 - **Week 5: (장소: 율전)**
     - [문자열: 2문제, 담당: 류채은]
     - [다익스트라: 1문제, 담당: 안정민]
+        - [숨바꼭질3](https://www.acmicpc.net/problem/13549)
     - [다이나믹프로그래밍: 2문제, 담당: 이유진]
         - [정수 삼각형](https://www.acmicpc.net/problem/1932)
         - [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
