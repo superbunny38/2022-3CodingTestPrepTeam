@@ -89,17 +89,21 @@
     <당일 날 풀 코딩 문제 준비: 류채은>
     
 - **Week 5: (장소: 율전)**
-    - [문자열: 2문제, 담당: 류채은]
-    - [다익스트라: 1문제, 담당: 안정민]
-        - [숨바꼭질3](https://www.acmicpc.net/problem/13549)
-    - [다이나믹프로그래밍: 2문제, 담당: 이유진]
-        - [정수 삼각형](https://www.acmicpc.net/problem/1932)
-        - [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
-    - [구현: 3문제, 담당: 류채은, (골드 포함)]
-        - [빙산](https://www.acmicpc.net/problem/2573)
-    - [kakao: 2문제, 담당: 조예은]
-        - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
-        - [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
+    <문자열: 2문제: 류채은>
+    
+    <다익스트라 1문제: 안정민>
+    - [숨바꼭질3](https://www.acmicpc.net/problem/13549)
+    
+    <다이나믹프로그래밍 2문제: 이유진>
+    - [정수 삼각형](https://www.acmicpc.net/problem/1932)
+    - [N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)
+    
+    <구현 3문제: 류채은, 안정민(골드)>
+    - [빙산](https://www.acmicpc.net/problem/2573)
+    
+    <kakao 기출 2문제: 조예은>
+    - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
+    - [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
  
 
 ## 💻 실시간 온라인 코딩테스트 일정💻
