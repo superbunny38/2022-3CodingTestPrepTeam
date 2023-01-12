@@ -91,6 +91,8 @@
 - **Week 5: (장소: 율전)**
 
     <문자열: 2문제: 류채은>
+    - [LCS](https://www.acmicpc.net/problem/9251)
+    - [A와 B](https://www.acmicpc.net/problem/12904)
     
     <다익스트라 1문제: 안정민>
     - [숨바꼭질3](https://www.acmicpc.net/problem/13549)
@@ -101,6 +103,8 @@
     
     <구현 3문제: 류채은, 안정민(골드)>
     - [빙산](https://www.acmicpc.net/problem/2573)
+    - [치킨 배달](https://www.acmicpc.net/problem/15686)
+    - [인구 이동](https://www.acmicpc.net/problem/16234)
     
     <kakao 기출 2문제: 조예은>
     - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
