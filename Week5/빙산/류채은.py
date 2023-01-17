@@ -1,23 +1,25 @@
 import copy
 
-def age(graph):
+def age(graph):#빙산 깎기
     orig_graph = copy.deepcopy(graph)
     dx = [0,0,-1,1]
     dy = [-1,1,0,0]
-
+    all_melt = True
     for i in range(1,len(graph)-1):
         for j in range(1,len(graph[0])-1):
             if orig_graph[i][j] != 0:
+                all_melt = False
                 n_age = 0
                 for x,y in zip(dx,dy):
                     if orig_graph[i+y][j+x] == 0:
                         n_age +=1
                 graph[i][j] = max(0,graph[i][j]-n_age)
+    return all_melt
        
         
         
                 
-def get_fragments(graph):
+def get_fragments(graph):#덩어리 카운트
     visited = [[0 for _ in range(len(graph[0]))] for tmp in range(len(graph))]
     #queue = []
     n_count = 0
@@ -49,10 +51,15 @@ for _ in range(R):
 
 n_age = 0
 non_zero_pos = []
+
 while True:
-    age(graph)
-    n_count = get_fragments(graph)
+    melt = age(graph)
     n_age+=1
+    if melt == True:
+        print(0)
+        break
+    n_count = get_fragments(graph)
+    
     #print(f"{n_age} year later... 덩어리:{n_count}")
     
     if n_count > 1:
