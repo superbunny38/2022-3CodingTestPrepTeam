@@ -119,7 +119,7 @@
     <다이나믹프로그래밍 2문제: 안정민>
     
     <Samsung 기출 2문제: 이유진>
-    
-
+    - [상어초등학교](https://www.acmicpc.net/problem/21608)
+    - [로봇청소기](https://www.acmicpc.net/problem/14503)
 ## 💻 실시간 온라인 코딩테스트 일정💻
     - 1/28 2023년 카카오 코딩테스트 기출
