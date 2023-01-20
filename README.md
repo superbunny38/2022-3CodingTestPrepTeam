@@ -113,7 +113,7 @@
 - **Week 6: 2/1**
 
     <구현 3문제: 조예은>
-    - [마법사 상어와 비바라기](https://www.acmicpc.net/problem/21610)
+    - [마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)
     - [누울 자리를 찾아](https://www.acmicpc.net/problem/1652)
     - [뱀](https://www.acmicpc.net/problem/3190)
 
