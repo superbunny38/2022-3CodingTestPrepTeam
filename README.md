@@ -119,6 +119,7 @@
 
     <문자열 2문제: 류채은>
     - [팰린드롬](https://www.acmicpc.net/problem/10066)
+    - [IOIOI](https://www.acmicpc.net/problem/5525)
     
     <다이나믹프로그래밍 2문제: 안정민>
     
