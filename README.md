@@ -122,6 +122,8 @@
     - [IOIOI](https://www.acmicpc.net/problem/5525)
     
     <다이나믹프로그래밍 2문제: 안정민>
+    - [RGB거리](https://www.acmicpc.net/problem/1149)
+    - [포도주 시식](https://www.acmicpc.net/problem/2156) 
     
     <Samsung 기출 2문제: 이유진>
     - [상어초등학교](https://www.acmicpc.net/problem/21608)
