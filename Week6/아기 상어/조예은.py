@@ -65,7 +65,6 @@ class BabyShark(Fish):  # 아기 상어
                 if space[ny][nx] is not None:  # 물고기가 있다면
                     fish = space[ny][nx]
                     if fish.size < self.size:  # 작은 물고기인 경우
-                        # print(f'Candidate: {(ny, nx, dist + 1)}')
                         if fish.loc < target.loc:  # 타겟보다 더 위에, 더 왼쪽에 있으면
                             fish.dist = dist + 1
                             target = fish  # 갱신
