@@ -130,7 +130,7 @@
     - [상어초등학교](https://www.acmicpc.net/problem/21608)
     - [로봇청소기](https://www.acmicpc.net/problem/14503)
 
-- **Week 7: 2/15 율전**
+- **Week 7: 2/15 3pm 율전**
 
    **난이도 실버 1,2,3**
    
