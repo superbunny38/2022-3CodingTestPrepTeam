@@ -110,7 +110,7 @@
     - [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)
     - [양궁 대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)
  
-- **Week 6: 2/3 사당**
+- **Week 6: 2/8 사당**
 
     <구현 3문제: 조예은>
     - [아기 상어](https://www.acmicpc.net/problem/16236)
