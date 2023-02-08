@@ -135,6 +135,9 @@
    **난이도 실버 1,2,3**
    
     <카카오 코딩테스트 2023 기출 Lv.3 3문제: 조예은>
+    [표현 가능한 이진 트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)
+    [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
+    [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)
     
     <문자열 2문제: 안정민>
     
