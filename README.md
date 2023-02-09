@@ -144,6 +144,8 @@
     <DP 골드 2문제: 이유진>
     
     <다익스트라 2문제: 류채은>
+    - [지름길](https://www.acmicpc.net/problem/1446)
+    - [택배 배송](https://www.acmicpc.net/problem/5972) 실버가 없어서 골드로 대체했어요
     
     
 ## 💻 실시간 온라인 코딩테스트 일정💻
