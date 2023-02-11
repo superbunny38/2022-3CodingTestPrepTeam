@@ -140,6 +140,8 @@
     - [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)
     
     <문자열 2문제: 안정민>
+    - [문자열 폭발](https://www.acmicpc.net/problem/9935)
+    - [전화번호 목록](https://www.acmicpc.net/problem/5052)
     
     <DP 골드 2문제: 이유진>
     
