@@ -144,7 +144,9 @@
     - [전화번호 목록](https://www.acmicpc.net/problem/5052)
     
     <DP 골드 2문제: 이유진>
-    
+    - [계단수](https://www.acmicpc.net/problem/1562)
+    - [행렬곱셈 ](https://www.acmicpc.net/problem/11049)
+
     <다익스트라 2문제: 류채은>
     - [지름길](https://www.acmicpc.net/problem/1446)
     - [택배 배송](https://www.acmicpc.net/problem/5972) *실버가 없어 골드로 대체했어요*
