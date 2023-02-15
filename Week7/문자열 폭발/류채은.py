@@ -1,16 +1,21 @@
-import re
-import copy
-entire_string = input()
-bomb = input()
+#문자열 폭발
+string = input()
+bomb = list(input())
 
+#print("string:",string,"bomb:",bomb)
 
-while True:
-    prev_entire_string = copy.deepcopy(entire_string)
-    entire_string = re.sub(bomb,'',prev_entire_string)
+#분류가 스택이길래..
+stack = []
+bomb_length = len(bomb)
+for s in string:
+    stack.append(s)
+    #print(stack[-bomb_length:])
+    if len(stack)>=bomb_length and stack[-bomb_length:] == bomb:
+        #print(">>exploded!\n")
+        for _ in range(bomb_length):
+            stack.pop(-1)
 
-    if entire_string == '':
-        print('FRULA')
-        break
-    elif len(entire_string) == len(prev_entire_string):
-        print(entire_string)
-        break
+if len(stack) == 0:
+    print("FRULA")
+else:
+    print("".join(stack))
