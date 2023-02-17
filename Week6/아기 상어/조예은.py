@@ -46,6 +46,7 @@ class BabyShark(Fish):  # 아기 상어
     def __next__(self):  # 이동
         global space, fishes, N
         visited = [[False] * N for _ in range(N)]
+        visited[self.loc[0]][self.loc[1]] = True
         queue = [*self.loc, 0]  # 현재 위치, 거리
         target = Fish(0, N, N, N*N)  # 다음 먹이를 (N, N) 위치에 N 제곱의 거리로 초기화
         
