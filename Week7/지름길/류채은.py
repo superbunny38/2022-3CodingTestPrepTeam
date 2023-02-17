@@ -1,43 +1,36 @@
-#1446_지름길_다익스트라_silver1
-#가져온 풀이: https://jie0025.tistory.com/200
 import heapq
-import sys
-input = sys.stdin.readline
 
-INF = int(1e9)
+N,D = map(int, input().split())#N: 지름길의 개수 D: 고속도로의 길이
+graph = [[] for _ in range(D+1)]
+distance = [float('inf')]*(D+1)#최소 비용 담을 공간
 
-def dijkstra(start):
+for idx in range(D):
+    graph[idx].append((idx+1,1))
+
+for _ in range(N):
+    start, end, cost = map(int,input().split())
+    if end>D:
+        continue
+    graph[start].append((end,cost))
+
+#print(graph)
+
+def dijk(start):
     q = []
-    heapq.heappush(q,(0,start))
+    heapq.heappush(q,(0,start))#현재 cost는 0, 위치는 start
     distance[start] = 0
     while q:
-        dist, now = heapq.heappop(q)
-
-        #지금 힙큐에서 뺀게 now까지 가는데 최소비용이 아닐수도 있으니 체크
-        if dist > distance[now]:
+        cost,cur_position = heapq.heappop(q)#튜플 앞 값(cost)을 기준으로 우선순위 정해짐
+        #cost: 지금 위치(cur_position)까지 올 때의 cost
+        if cost>distance[cur_position]:
             continue
 
-        for i in graph[now]:
-            cost = dist + i[1]
-            if cost < distance[i[0]]:
-                distance[i[0]] = cost
-                heapq.heappush(q,(cost, i[0]))
+        for i in graph[cur_position]:
+            end_point,dist = i[0],i[1]
+            if cost+dist < distance[end_point]:
+                #cost+dist: 처음부터 지금 위치까지 비용(cost)+지금위치에서 endppint까지 비용(dist)
+                distance[end_point] = cost+dist#최소 비용 갱신
+                heapq.heappush(q,(cost+dist,end_point))
 
-
-n , d = map(int,input().split())
-graph = [[] for _ in range(d+1)]
-distance = [INF] * (d+1)
-
-#일단 거리 1로 초기화.
-for i in range(d):
-    graph[i].append((i+1, 1))
-
-#지름길 있는 경우에 업데이트
-for _ in range(n):
-    s, e, l = map(int,input().split())
-    if e > d:# 고려 안해도 됨.
-        continue
-    graph[s].append((e,l))
-
-dijkstra(0)
-print(distance[d])
+dijk(0)
+print(distance[D])
